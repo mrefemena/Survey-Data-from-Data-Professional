@@ -1,7 +1,7 @@
 # Survey-Data-from-Data-Professional
 ### Analyzing survey data to explore key insights, including average salary, age distribution, preferred programming language, and salary satisfactory rating.
 ### **Dataset Used**  
-- **Link:** [Insert Link Here]  
+- <a href="https://github.com/mrefemena/Survey-Data-from-Data-Professional/blob/main/Data%20Analyst%20Survey.pbix">Dataset<a/>
 
 ### Key Questions (KPIs)
 - What is the **average age** of respondents?  
@@ -18,16 +18,16 @@
    - Created new columns and split existing ones to extract relevant information.  
 4. **Visualization Creation:**  
    - Used **bar charts** to display the most commonly used programming languages.  
-   - Created a **scatter plot** to analyze salary distribution across roles.  
-   - Designed a **heatmap** to compare salary ratings by profession.  
+   - Created a **bar charts** to analyze salary distribution across roles.    
    - Developed an **interactive dashboard** with filters for better insights.  
 
 ### **Dashboard**  
-[Include a brief description or a link to the dashboard]  
+![Data Field Professional Survey-1](https://github.com/user-attachments/assets/b7935238-38fe-47ca-8d16-042c2bafef43)
+
 
 ### **Project Insights**  
 - **Over 50%** of professionals reported a **low salary rating**.  
 - **Data Scientists** are the highest earners in the data industry.  
 - **Python** is the most preferred programming language.  
 
-Let me know if you’d like any refinements! 🚀😊
+
